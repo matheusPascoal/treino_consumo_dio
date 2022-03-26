@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(conselho LANGUAGES CXX)
+project(apenaum LANGUAGES CXX)
 
-set(BINARY_NAME "conselho")
+set(BINARY_NAME "apenaum")
 
 cmake_policy(SET CMP0063 NEW)
 
